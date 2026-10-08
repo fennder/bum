@@ -1,0 +1,6 @@
+{
+  "name": "BusinessAroundMe",
+  "description": "Descubra e gerencie negócios locais, produtos, serviços e avaliações perto de você com mapa interativo e painel administrativo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
